@@ -28,7 +28,7 @@ sudo apt install npm
 ###  Install Create-React-App
 
 ```
-npm create-react-app KeenAble
+npx create-react-app KeenAble
 ```
 ```
 cd KeenAble
@@ -39,7 +39,7 @@ npm start
 
 ## Dependencies
 
-### tailwindcss
+### 1. Tailwindcss
 
 **Tailwind CSS differs from other CSS frameworks like Bootstrap in that it doesn't provide predefined classes for elements like buttons or tables. Instead, it provides a set of opinionated, single-purpose utility classes that can be used directly inside markup to design an element.**
 
@@ -73,5 +73,19 @@ module.exports = {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+```
+
+### 2. Axios
+
+<p>Axios, which is a popular library is mainly used to send asynchronous HTTP requests to REST endpoints. This library is very useful to perform CRUD operations.</p>
+
+<ol>
+  <li>This popular library is used to communicate with the backend. Axios supports the Promise API, native to JS ES6.</li>
+  <li>Using Axios we make API requests in our application. Once the request is made we get the data in Return, and then we use this data in our project. </li>
+  <li>This library is very popular among developers. You can check on GitHub and you will find 78k stars on it. </li>
+</ol>
+
+```
+npm install axios
 ```
 
