@@ -95,9 +95,22 @@ npm install axios
 
 ### Navbar
 
+<p>In the navbar, we place the KeenAble logo along with links to the About, Services, Careers, and Contact Us pages.</p>
+
+![image](https://i.postimg.cc/fLRWwfKG/Navbar.png)
+
 ### Clients
 
+<p>In the Clients section, we feature all clients who have utilized services from Keen and Able.</p>
+
+![image](https://i.postimg.cc/CKLHV93S/clients.png)
+
 ### Footer
+
+<p>In the footer, we include the full address of KeenAble, along with links to the About, Services, and Contact pages. Our services encompass Web Development, Mobile App Development, Domain and Hosting, and General IT Consultation. Additionally, we provide links to our social media profiles.</p>
+
+![image](https://i.postimg.cc/rpxJjS2t/footer.png)
+
 
 ### Hero
 
