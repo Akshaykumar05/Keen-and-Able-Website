@@ -89,3 +89,35 @@ module.exports = {
 npm install axios
 ```
 
+### Pages We make in Keen and Able Website
+
+## Components
+
+### Navbar
+
+### Clients
+
+### Footer
+
+### Hero
+
+## Pages
+
+### Contact Page
+
+### Home Page
+
+### Intro Page
+
+### Career Page
+
+### Services Page
+
+## App.Js
+
+
+
+
+
+
+
