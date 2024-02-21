@@ -118,13 +118,27 @@ npm install axios
 
 ### Contact Page
 
+![image](https://i.postimg.cc/RFR23W6j/Keenable-Contact-Form.png)
+
 ### Home Page
+
+![image](https://i.postimg.cc/fbKJbvCZ/Homepage1.png)
+
+![image](https://i.postimg.cc/yNv8K868/Body2.png)
 
 ### Intro Page
 
+![image](https://i.postimg.cc/mgK0Hxdy/about1.png)
+
+![image](https://i.postimg.cc/1XRTQyts/about2.png)
+
 ### Career Page
 
+![image](https://i.postimg.cc/W4CWyMRm/career-Page.png)
+
 ### Services Page
+
+![image](https://i.postimg.cc/zDSb28K3/service1.png)
 
 ## App.Js
 
