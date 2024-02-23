@@ -103,7 +103,7 @@ npm install axios
 
 <p>In the Clients section, we feature all clients who have utilized services from Keen and Able.</p>
 
-![image](https://i.postimg.cc/CKLHV93S/clients.png)
+![image](https://i.postimg.cc/NfkTJPTT/client.png)
 
 ### Footer
 
@@ -134,7 +134,14 @@ npm install axios
 
 ### Career Page
 
-![image](https://i.postimg.cc/W4CWyMRm/career-Page.png)
+![image](https://i.postimg.cc/Z5YN1FFQ/Screenshot-from-2024-02-23-11-43-23.png)
+
+
+![image](https://i.postimg.cc/Dfqb0YxD/Screenshot-from-2024-02-23-11-54-01.png)
+
+
+![image](https://i.postimg.cc/FR01f7Vc/Screenshot-from-2024-02-23-11-54-18.png)
+
 
 ### Services Page
 
