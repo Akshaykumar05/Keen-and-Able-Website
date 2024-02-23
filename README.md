@@ -124,8 +124,6 @@ npm install axios
 
 ![image](https://i.postimg.cc/fbKJbvCZ/Homepage1.png)
 
-![image](https://i.postimg.cc/yNv8K868/Body2.png)
-
 ### Intro Page
 
 ![image](https://i.postimg.cc/mgK0Hxdy/about1.png)
