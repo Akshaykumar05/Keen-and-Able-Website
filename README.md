@@ -1,5 +1,5 @@
 # Project : **Keen-and-Able-Website**
-* In this repository, we will document the project decription, how we build and what technologies we used. 
+* In this repository, we will document the project decription, how we build and what technologies we used. Let's begin with the components and deployment architecture of the project.
 
 ## Node Js
 
