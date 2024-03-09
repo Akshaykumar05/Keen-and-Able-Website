@@ -1,4 +1,5 @@
-# Keen-and-Able-Website
+# Project : **Keen-and-Able-Website**
+* In this repository, we will document the project decription, how we build and what technologies we used. 
 
 ## Node Js
 
